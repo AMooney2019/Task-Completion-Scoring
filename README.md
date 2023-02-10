@@ -1,7 +1,7 @@
 # Task-Completion-Scoring
 A Python script for calculating the adjusted-Wald confidence intervals for task completion data. 
 
-Script: Score_Task_Completion.py
+Script: Score_Task_Completion.py <br>
 Sample Data: Fake_Task_Completion_Data.csv
 
 ## About
