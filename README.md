@@ -24,11 +24,11 @@ Find the desired column and modify the name to remove spaces. For example 'Fake 
 Be sure to resave your .csv file after you make adjustments!
 Save the data file to the same directory where your script is located.
 
-Open the script. Find the line infile = 'Fake_Task_Completion_Data.csv' near the bottom of the page.
+Open the script. Find the line **infile = 'Fake_Task_Completion_Data.csv'** near the bottom of the page.
 
 Replace the 'Fake_Task_Completion_Data.csv' with the name of your file. Be sure to include the '' around the entire file name and the '.csv' extension!
 
-Find the line scores = df['Task_Completion_1'] at the bottom of the page. Copy the column name from your file and paste it into the brackets. Be sure to include '' surrounding the column name.
+Find the line **scores = df['Task_Completion_1']** at the bottom of the page. Copy the column name from your file and paste it into the brackets. Be sure to include '' surrounding the column name.
 
 Run the script. The selected column will score and calculate the confidence interval for the sample. A statement about the population confidence 
 interval should appear in the Output panel.
